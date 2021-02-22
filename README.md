@@ -11,5 +11,5 @@ Stats
 Most Used Langs
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luc4sd3v&layout=compact&langs_count=999&theme=shades-of-purple&bg_color=1C00ff00&hide_border=true" alt="Langs" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mednic&layout=compact&langs_count=999&theme=shades-of-purple&bg_color=1C00ff00&hide_border=true" alt="Langs" />
 </p>
