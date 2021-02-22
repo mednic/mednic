@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="center">Hello World !/></h1>
+<p align="center">
 
-<!--
-**mednic/mednic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Stats
 
-Here are some ideas to get you started:
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=luc4sd3v&show_icons=true&theme=shades-of-purple&bg_color=1C00ff00&hide_border=true" alt="Stats"/>
+</p>
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Most Used Langs
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luc4sd3v&layout=compact&langs_count=999&theme=shades-of-purple&bg_color=1C00ff00&hide_border=true" alt="Langs" />
+</p>
