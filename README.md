@@ -1,7 +1,4 @@
-<h1 align="center"> int main(){ 
-     char *xpl = "0x29b";  </h1>
-     printf("Hello World\n I am medn1c %s", xpl);
-}
+<h1 align="center"> int welcome(){ char *xpl = "Medn1c :)"; return 0;}  </h1>
 <p align="center">
 
 Stats
