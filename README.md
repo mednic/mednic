@@ -9,7 +9,7 @@ Stats
 <br />
 
 <h2 align="center">
-  <em>blk#9227</em>
+  <em>mednic#7516</em>
 </h2>
 
 <p align="center">
@@ -18,5 +18,5 @@ Stats
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackcrw&hide=html&layout=compact&show_icons=true&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mednic&hide=html&layout=compact&show_icons=true&theme=radical" />
 </p>
