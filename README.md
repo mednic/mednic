@@ -9,7 +9,7 @@ Stats
 <br />
 
 <h2 align="center">
-  <em>mednic#7516</em>
+  <em>Discord: Medn1c#7516</em>
 </h2>
 
 <p align="center">
