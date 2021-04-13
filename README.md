@@ -1,4 +1,4 @@
-<h1 align="center"> int welcome(){ char *xpl = "Medn1c :)"; return 0;}  </h1>
+<h1 align="center"> int welcome(){ constant char *xpl = "Medn1c :)"; return 0;}  </h1>
 <p align="center">
 
 Stats
